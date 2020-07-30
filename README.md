@@ -1,5 +1,5 @@
 # Garbage-management-system
-<h2>Location based garbage management system | PHP/ HTML/ CSS /JS<h2>
+<h2>Location based garbage management system | PHP/ HTML/ CSS /JS </h2>
 <p>With the development of technology, people have become more selfish and careless. As a result, heaps of garbage can be seen almost anywhere. It is very uncomfortable to pass those areas where garbage is collected due to the terrible smell and unpleasant sight. </p>
 <p>To overcome the shortcomings of notifying the garbage collected locations we have developed a web-based application. This application uses google maps embedded to it which displays the locations where garbage is collected.</p>
 <p>The solution we have developed has five types of users who have different roles to perform in the application.</p>
@@ -36,25 +36,25 @@
 
 <h3>Screen Shots</h3>
 <p>Home page<p>
-<img src="Screenshot/Annotation1.png" height="400" alt="Screenshot"/>
+<img src="Screenshot/Annotation1.png" height="250" alt="Screenshot"/>
 <p>This page will display garbage dumped locations to the general public with image<p>
-	<img src="Screenshot/Annotation2.png" height="400" alt="Screenshot"/>
+	<img src="Screenshot/Annotation2.png" height="250" alt="Screenshot"/>
 <p>This page will display special articles and notices to the general public<p>
-	<img src="Screenshot/Annotation3.png" height="400" alt="Screenshot"/>
+	<img src="Screenshot/Annotation3.png" height="250" alt="Screenshot"/>
 <p>General public can view vision, mission and history of CMC in this page<p>
-	<img src="Screenshot/Annotation4.png" height="400" alt="Screenshot"/>
+	<img src="Screenshot/Annotation4.png" height="250" alt="Screenshot"/>
 <p>Contact details of the Colombo Municipal  Council is displayed here<p>
-	<img src="Screenshot/Annotation5.png" height="400" alt="Screenshot"/>
+	<img src="Screenshot/Annotation5.png" height="250" alt="Screenshot"/>
 <p>This is the user registration form<p>
-	<img src="Screenshot/Annotation6.png" height="400" alt="Screenshot"/>
+	<img src="Screenshot/Annotation6.png" height="250" alt="Screenshot"/>
 <p>This button will take the users to login page which has three roles.<p>	
-	<img src="Screenshot/Annotation7.png" height="400" alt="Screenshot"/>
+	<img src="Screenshot/Annotation7.png" height="250" alt="Screenshot"/>
 <p>This page contains  Captains Map who can set the priority of cleaning.<p>
-	<img src="Screenshot/Annotation8.png" height="400" alt="Screenshot"/>
+	<img src="Screenshot/Annotation8.png" height="250" alt="Screenshot"/>
 <p>This map is the Staff Map which display the markers in  two colors according to priority set for cleaning by the Captain. <p>
-		<img src="Screenshot/Annotation9.png" height="400" alt="Screenshot"/>
+		<img src="Screenshot/Annotation9.png" height="250" alt="Screenshot"/>
 <p>This is the volunteer map who can add locations along with image and description<p>
-		<img src="Screenshot/Annotation10.png" height="400" alt="Screenshot"/>
+		<img src="Screenshot/Annotation10.png" height="250" alt="Screenshot"/>
 	
 	
 	
