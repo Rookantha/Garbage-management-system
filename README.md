@@ -36,11 +36,11 @@
 
 <h3>Screen Shots</h3>
 <p>Home page<p>
-<img src="Screenshot/Annotation1.png" height="250" alt="Screenshot"/>
+<img src="Screenshot/Annotation1.png"  alt="Screenshot"/>
 <p>This page will display garbage dumped locations to the general public with image<p>
-	<img src="Screenshot/Annotation2.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation2.png"  alt="Screenshot"/>
 <p>This page will display special articles and notices to the general public<p>
-	<img src="Screenshot/Annotation3.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation3.png"  alt="Screenshot"/>
 <p>General public can view vision, mission and history of CMC in this page<p>
 	<img src="Screenshot/Annotation4.png" height="250" alt="Screenshot"/>
 <p>Contact details of the Colombo Municipal  Council is displayed here<p>
@@ -55,6 +55,9 @@
 		<img src="Screenshot/Annotation9.png" height="250" alt="Screenshot"/>
 <p>This is the volunteer map who can add locations along with image and description<p>
 		<img src="Screenshot/Annotation10.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation11.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation12.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation13.png" height="250" alt="Screenshot"/>
 	
 	
 	
