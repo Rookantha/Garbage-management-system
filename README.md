@@ -35,5 +35,9 @@ Location based garbage management system | PHP/ HTML/ CSS /JS
 
 
 <h3>Screen Shots</h3>
-Home page
+<p>Home page<p>
 <img src="Screenshot/Annotation1.png" height="400" alt="Screenshot"/>
+<p>This page will display garbage dumped locations to the general public with image<p>
+	<img src="Screenshot/Annotation2.png" height="400" alt="Screenshot"/>
+<p>This page will display special articles and notices to the general public<p>
+	<img src="Screenshot/Annotation3.png" height="400" alt="Screenshot"/>
