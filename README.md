@@ -9,7 +9,6 @@
 		  <li>Administrator</li>
 		  <li>Captain	</li>
 		  <li>Collection Staff</li>
-		  <li>General Public</li>
 		</ul>
 	
 <p>Volunteers are considered as Green Task Force (GTF). They have the authority to insert garbage collected spots on the map by setting a pin, at the same time they can send a message stating the reason along with an image. Volunteers can get registered with the application for free. </p>
@@ -42,22 +41,22 @@
 <p>This page will display special articles and notices to the general public<p>
 	<img src="Screenshot/Annotation3.png"  alt="Screenshot"/>
 <p>General public can view vision, mission and history of CMC in this page<p>
-	<img src="Screenshot/Annotation4.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation4.png"  alt="Screenshot"/>
 <p>Contact details of the Colombo Municipal  Council is displayed here<p>
-	<img src="Screenshot/Annotation5.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation5.png" alt="Screenshot"/>
 <p>This is the user registration form<p>
-	<img src="Screenshot/Annotation6.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation6.png"  alt="Screenshot"/>
 <p>This button will take the users to login page which has three roles.<p>	
-	<img src="Screenshot/Annotation7.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation7.png"  alt="Screenshot"/>
 <p>This page contains  Captains Map who can set the priority of cleaning.<p>
-	<img src="Screenshot/Annotation8.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation8.png" alt="Screenshot"/>
 <p>This map is the Staff Map which display the markers in  two colors according to priority set for cleaning by the Captain. <p>
 		<img src="Screenshot/Annotation9.png" height="250" alt="Screenshot"/>
 <p>This is the volunteer map who can add locations along with image and description<p>
-		<img src="Screenshot/Annotation10.png" height="250" alt="Screenshot"/>
-	<img src="Screenshot/Annotation11.png" height="250" alt="Screenshot"/>
-	<img src="Screenshot/Annotation12.png" height="250" alt="Screenshot"/>
-	<img src="Screenshot/Annotation13.png" height="250" alt="Screenshot"/>
+		<img src="Screenshot/Annotation10.png" alt="Screenshot"/>
+	<p><img src="Screenshot/Annotation11.png" alt="Screenshot"/><p>
+	<p><img src="Screenshot/Annotation12.png" height="250" alt="Screenshot"/><p>
+	<p><img src="Screenshot/Annotation13.png" height="250" alt="Screenshot"/><p>
 	
 	
 	
