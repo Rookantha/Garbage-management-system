@@ -51,12 +51,12 @@
 <p>This page contains  Captains Map who can set the priority of cleaning.<p>
 	<img src="Screenshot/Annotation8.png" alt="Screenshot"/>
 <p>This map is the Staff Map which display the markers in  two colors according to priority set for cleaning by the Captain. <p>
-		<img src="Screenshot/Annotation9.png" height="250" alt="Screenshot"/>
+	<img src="Screenshot/Annotation9.png"  alt="Screenshot"/>
 <p>This is the volunteer map who can add locations along with image and description<p>
-		<img src="Screenshot/Annotation10.png" alt="Screenshot"/>
+	<img src="Screenshot/Annotation10.png" alt="Screenshot"/>
 	<p><img src="Screenshot/Annotation11.png" alt="Screenshot"/><p>
-	<p><img src="Screenshot/Annotation12.png" height="250" alt="Screenshot"/><p>
-	<p><img src="Screenshot/Annotation13.png" height="250" alt="Screenshot"/><p>
+	<p><img src="Screenshot/Annotation12.png" alt="Screenshot"/><p>
+	<p><img src="Screenshot/Annotation13.png"  alt="Screenshot"/><p>
 	
 	
 	
